@@ -1,0 +1,6 @@
+numpy==1.19.5
+nltk==3.2.5
+pandas==1.1.5
+tensorflow==2.6.0
+streamlit==0.89.0
+st-annotated-text==2.0.0

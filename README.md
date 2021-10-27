@@ -5,7 +5,7 @@ Natural Phenomenon.
 [![open streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/999harish999/ner-named-entity-recognition/app.py)
 
 ## Demo
-
+![demo](demo/demo.gif)
 
 
 ## Problem Statement
